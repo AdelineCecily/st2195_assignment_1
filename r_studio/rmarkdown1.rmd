@@ -1,0 +1,13 @@
+---
+title: "1st Assignment R Markdown"
+author: "Adeline Cecily"
+date: 20 September 2022
+---
+s
+## First Assignment
+
+I managed to an R script that prints all integers between 1 and 10 to screen.
+```{r quote}
+for (i in 1:10)
+    print(paste(i))
+```
